@@ -1,0 +1,4 @@
+//GetMapping é uma anotação composta que atua como um atalho para RequestMapping.
+//PostMapping é uma maneira mais simples de implementar anotações, sem precisar utilizar MySql
+//PutMapping é uma forma de editar anotações.
+//DeleteMapping é uma forma de deletar anotações.
