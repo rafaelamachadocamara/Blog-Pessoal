@@ -26,8 +26,8 @@ public class SwaggerConfig {
 	}
 	private ApiInfo apiInfo(){
 	return new ApiInfoBuilder()
-	.title("Blog Pessoal")
-	.description("API do Projeto de blog pessoal")
+	.title("Blog")
+	.description("API do Projeto de blog")
 	.version("1.0")
 	.contact(contact())
 	.build();
@@ -35,7 +35,7 @@ public class SwaggerConfig {
 	private Contact contact(){
 	return new Contact("Rafaela Machado",
 	"https://github.com/rafaelamachadocamara",
-	"Aluna no Bootcamp Generation Brasil");
+	"Aluna de Programação");
 	}
 	
 }
